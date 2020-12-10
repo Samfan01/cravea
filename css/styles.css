@@ -1,0 +1,14 @@
+.card-body p {
+           font-size: x-large;
+           font-weight: bolder;
+           color: beige;
+           text-align: right;
+           border-bottom: 5px solid black;
+}
+.card-footer p {
+    font-size: x-large;
+    font-weight: bolder;
+    color: beige;
+    text-align: center;
+            
+}
